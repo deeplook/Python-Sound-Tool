@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deeplook/Python-Sound-Tool/master?urlpath=lab)
+
 # PySoundTool
 
 This project stemmed from the Prototype Fund project <a href="https://github.com/pgys/NoIze">NoIze</a>. This fork broadens the application of the software from smart noise filtering to general sound analysis, filtering, visualization, preparation, etc. Therefore the name has been adapted to more general sound functionality.
